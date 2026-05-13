@@ -1,0 +1,18 @@
+﻿column;description
+case_id;Identificador anônimo do caso-base pedagógico (P001-P030).
+backend;Backend/modelo avaliado.
+stage;Estágio operacional da submissão no momento da geração do feedback.
+error_type;Categoria resumida de erro/estado usada para seleção e análise.
+has_tests;Indica se havia resultados de testes registrados para o caso.
+tests_total;Número de testes observáveis no caso, quando disponível.
+tests_passed;Número de testes aprovados, quando disponível.
+pass_ratio_eff;Proporção de testes aprovados, quando disponível.
+score_av1 / score_av2;Pontuação total atribuída pelo avaliador 1/2, escala 0-10.
+score_avg;Média das pontuações totais dos dois avaliadores.
+*_av1 / *_av2;Nota da dimensão da rubrica atribuída pelo avaliador 1/2, escala 0-2.
+*_avg;Média das notas dos avaliadores para a dimensão.
+exact_agreement;Indica se os avaliadores atribuíram a mesma nota naquela dimensão/caso.
+abs_diff;Diferença absoluta entre as notas dos avaliadores.
+observed_agreement_pct;Percentual de concordância exata entre os avaliadores.
+quadratic_weighted_kappa;Kappa ponderado quadrático de Cohen para notas ordinais 0-2.
+note;Observações sobre cálculo ou interpretação, por exemplo kappa indefinido por ausência de variação.

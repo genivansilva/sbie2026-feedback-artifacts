@@ -1,0 +1,301 @@
+﻿case_id;backend;dimension_code;dimension;score_av1;score_av2;score_avg;exact_agreement;abs_diff
+P001;GPT-5.2;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P001;GPT-5.2;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P001;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P001;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P001;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P002;GPT-5.2;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P002;GPT-5.2;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P002;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P002;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P002;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P003;GPT-5.2;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P003;GPT-5.2;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P003;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P003;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P003;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P004;GPT-5.2;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P004;GPT-5.2;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P004;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P004;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P004;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P005;GPT-5.2;alignment;Alinhamento ao erro principal;0;0;0;VERDADEIRO;0
+P005;GPT-5.2;actionability;Acionabilidade;0;0;0;VERDADEIRO;0
+P005;GPT-5.2;stage_fit;Adequação ao estado da submissão;1;0;0,5;FALSO;1
+P005;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P005;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P006;GPT-5.2;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P006;GPT-5.2;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P006;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P006;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P006;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P007;GPT-5.2;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P007;GPT-5.2;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P007;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P007;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P007;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P008;GPT-5.2;alignment;Alinhamento ao erro principal;2;1;1,5;FALSO;1
+P008;GPT-5.2;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P008;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P008;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P008;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P009;GPT-5.2;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P009;GPT-5.2;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P009;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P009;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P009;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P010;GPT-5.2;alignment;Alinhamento ao erro principal;0;0;0;VERDADEIRO;0
+P010;GPT-5.2;actionability;Acionabilidade;0;1;0,5;FALSO;1
+P010;GPT-5.2;stage_fit;Adequação ao estado da submissão;1;0;0,5;FALSO;1
+P010;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P010;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P011;GPT-5.2;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P011;GPT-5.2;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P011;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P011;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P011;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P012;GPT-5.2;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P012;GPT-5.2;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P012;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P012;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P012;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P013;GPT-5.2;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P013;GPT-5.2;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P013;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P013;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P013;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P014;GPT-5.2;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P014;GPT-5.2;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P014;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P014;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P014;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P015;GPT-5.2;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P015;GPT-5.2;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P015;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P015;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P015;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P016;GPT-5.2;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P016;GPT-5.2;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P016;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P016;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P016;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P017;GPT-5.2;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P017;GPT-5.2;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P017;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P017;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P017;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P018;GPT-5.2;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P018;GPT-5.2;actionability;Acionabilidade;2;1;1,5;FALSO;1
+P018;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P018;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P018;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P019;GPT-5.2;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P019;GPT-5.2;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P019;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P019;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P019;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P020;GPT-5.2;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P020;GPT-5.2;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P020;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P020;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P020;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P021;GPT-5.2;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P021;GPT-5.2;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P021;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P021;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P021;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P022;GPT-5.2;alignment;Alinhamento ao erro principal;1;2;1,5;FALSO;1
+P022;GPT-5.2;actionability;Acionabilidade;1;2;1,5;FALSO;1
+P022;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P022;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P022;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P023;GPT-5.2;alignment;Alinhamento ao erro principal;1;2;1,5;FALSO;1
+P023;GPT-5.2;actionability;Acionabilidade;1;2;1,5;FALSO;1
+P023;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P023;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P023;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P024;GPT-5.2;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P024;GPT-5.2;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P024;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P024;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P024;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P025;GPT-5.2;alignment;Alinhamento ao erro principal;1;2;1,5;FALSO;1
+P025;GPT-5.2;actionability;Acionabilidade;1;2;1,5;FALSO;1
+P025;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P025;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P025;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P026;GPT-5.2;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P026;GPT-5.2;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P026;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P026;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P026;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P027;GPT-5.2;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P027;GPT-5.2;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P027;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P027;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P027;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P028;GPT-5.2;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P028;GPT-5.2;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P028;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P028;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P028;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P029;GPT-5.2;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P029;GPT-5.2;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P029;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P029;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P029;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P030;GPT-5.2;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P030;GPT-5.2;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P030;GPT-5.2;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P030;GPT-5.2;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P030;GPT-5.2;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P001;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P001;Gemini 3 Flash Preview;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P001;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P001;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P001;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P002;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P002;Gemini 3 Flash Preview;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P002;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P002;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P002;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P003;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P003;Gemini 3 Flash Preview;actionability;Acionabilidade;1;2;1,5;FALSO;1
+P003;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P003;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P003;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P004;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P004;Gemini 3 Flash Preview;actionability;Acionabilidade;1;2;1,5;FALSO;1
+P004;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P004;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P004;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P005;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;0;0;0;VERDADEIRO;0
+P005;Gemini 3 Flash Preview;actionability;Acionabilidade;0;1;0,5;FALSO;1
+P005;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;0;1;0,5;FALSO;1
+P005;Gemini 3 Flash Preview;clarity;Clareza e estrutura;1;1;1;VERDADEIRO;0
+P005;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P006;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;1;2;1,5;FALSO;1
+P006;Gemini 3 Flash Preview;actionability;Acionabilidade;1;2;1,5;FALSO;1
+P006;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P006;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P006;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P007;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P007;Gemini 3 Flash Preview;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P007;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P007;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P007;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P008;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;2;1;1,5;FALSO;1
+P008;Gemini 3 Flash Preview;actionability;Acionabilidade;2;1;1,5;FALSO;1
+P008;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P008;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P008;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P009;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;1;0;0,5;FALSO;1
+P009;Gemini 3 Flash Preview;actionability;Acionabilidade;1;1;1;VERDADEIRO;0
+P009;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P009;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P009;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P010;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;0;0;0;VERDADEIRO;0
+P010;Gemini 3 Flash Preview;actionability;Acionabilidade;1;1;1;VERDADEIRO;0
+P010;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P010;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P010;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P011;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P011;Gemini 3 Flash Preview;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P011;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P011;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P011;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P012;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P012;Gemini 3 Flash Preview;actionability;Acionabilidade;2;1;1,5;FALSO;1
+P012;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P012;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P012;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P013;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;1;2;1,5;FALSO;1
+P013;Gemini 3 Flash Preview;actionability;Acionabilidade;1;2;1,5;FALSO;1
+P013;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P013;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P013;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P014;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P014;Gemini 3 Flash Preview;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P014;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P014;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P014;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P015;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P015;Gemini 3 Flash Preview;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P015;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P015;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P015;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P016;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P016;Gemini 3 Flash Preview;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P016;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P016;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P016;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P017;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P017;Gemini 3 Flash Preview;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P017;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P017;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P017;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P018;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;1;0;0,5;FALSO;1
+P018;Gemini 3 Flash Preview;actionability;Acionabilidade;1;1;1;VERDADEIRO;0
+P018;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P018;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P018;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P019;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;1;1;1;VERDADEIRO;0
+P019;Gemini 3 Flash Preview;actionability;Acionabilidade;1;1;1;VERDADEIRO;0
+P019;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P019;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P019;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P020;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P020;Gemini 3 Flash Preview;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P020;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P020;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P020;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P021;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P021;Gemini 3 Flash Preview;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P021;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P021;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P021;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P022;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;1;1;1;VERDADEIRO;0
+P022;Gemini 3 Flash Preview;actionability;Acionabilidade;1;2;1,5;FALSO;1
+P022;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P022;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P022;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P023;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;2;1;1,5;FALSO;1
+P023;Gemini 3 Flash Preview;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P023;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P023;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P023;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P024;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;2;1;1,5;FALSO;1
+P024;Gemini 3 Flash Preview;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P024;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P024;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P024;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P025;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P025;Gemini 3 Flash Preview;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P025;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P025;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P025;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P026;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;1;2;1,5;FALSO;1
+P026;Gemini 3 Flash Preview;actionability;Acionabilidade;1;2;1,5;FALSO;1
+P026;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P026;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P026;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P027;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P027;Gemini 3 Flash Preview;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P027;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P027;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P027;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P028;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P028;Gemini 3 Flash Preview;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P028;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P028;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P028;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P029;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P029;Gemini 3 Flash Preview;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P029;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P029;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P029;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0
+P030;Gemini 3 Flash Preview;alignment;Alinhamento ao erro principal;2;2;2;VERDADEIRO;0
+P030;Gemini 3 Flash Preview;actionability;Acionabilidade;2;2;2;VERDADEIRO;0
+P030;Gemini 3 Flash Preview;stage_fit;Adequação ao estado da submissão;2;2;2;VERDADEIRO;0
+P030;Gemini 3 Flash Preview;clarity;Clareza e estrutura;2;2;2;VERDADEIRO;0
+P030;Gemini 3 Flash Preview;no_solution_leak;Ausência de vazamento de solução;2;2;2;VERDADEIRO;0

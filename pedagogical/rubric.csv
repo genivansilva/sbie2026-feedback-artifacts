@@ -1,0 +1,6 @@
+﻿dimension_code;dimension;score_0;score_1;score_2
+alignment;Alinhamento ao erro principal;Não foca o problema relevante ou contradiz sinais disponíveis;Foca parcialmente o problema ou usa uma rota diagnóstica incompleta;Foca claramente o erro principal ou a causa mais defensável diante dos sinais
+actionability;Acionabilidade;Não oferece orientação útil de revisão;Oferece orientação genérica ou pouco operacional;Oferece próximo passo claro e realizável
+stage_fit;Adequação ao estado da submissão;Resposta inadequada ao estágio do código;Resposta parcialmente adequada ao estágio;Resposta compatível com o estado da submissão
+clarity;Clareza e estrutura;Mensagem confusa ou difícil de seguir;Mensagem compreensível, mas pouco organizada;Mensagem clara, organizada e fácil de seguir
+no_solution_leak;Ausência de vazamento de solução;Entrega solução ou trecho essencial;Aproxima-se excessivamente da solução;Mantém orientação sem antecipar a solução
