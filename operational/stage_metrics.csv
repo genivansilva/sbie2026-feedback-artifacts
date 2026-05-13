@@ -1,0 +1,9 @@
+﻿backend;model;stage;n;mean_latency_s;mean_tokens;marker_strict_rate
+openai;gpt-5.2;S1;50;3,332;1616;1,000
+openai;gpt-5.2;S2;3;4,350;1735;0,333
+openai;gpt-5.2;S3;22;3,880;1746;0,545
+openai;gpt-5.2;S4;25;2,375;1660;1,000
+gemini;gemini-3-flash-preview;S1;50;1,483;1603;1,000
+gemini;gemini-3-flash-preview;S2;3;1,741;1728;1,000
+gemini;gemini-3-flash-preview;S3;22;1,780;1751;1,000
+gemini;gemini-3-flash-preview;S4;25;1,435;1654;1,000

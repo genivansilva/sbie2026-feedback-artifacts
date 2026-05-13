@@ -1,0 +1,31 @@
+﻿coluna;descrição
+case_id;Identificador anônimo do caso. A mesma ordem de linhas é preservada entre os backends.
+backend;Família de backend usada para processar o caso (openai ou gemini).
+model;Nome do modelo usado na rodada de execução.
+stage;Estágio governado usado nas tabelas do artigo (S1–S4).
+raw_stage;Estágio originalmente emitido pelo pipeline antes da normalização pela política, mantido para auditoria.
+evidence_regime;"oracle quando há evidência executável de testes; no_oracle caso contrário."
+has_tests;Indica se o log contém evidência de testes para a interação.
+tests_total;Número de testes registrados para a interação.
+tests_passed;Número de testes registrados que foram aprovados.
+oracle_ref;Referência derivada dos testes: TRUE quando todos os testes passaram, FALSE quando ao menos um falhou, vazio quando não há oráculo.
+model_marker;Marcador booleano de corretude emitido pelo modelo para auditoria, não exibido aos estudantes.
+governed_decision;Decisão final de corretude produzida pela política de governança.
+marker_extracted;Indica se o marcador pôde ser extraído da saída do modelo.
+marker_strict_format;Indica se o marcador seguiu estritamente o formato de saída esperado.
+latency_s;Tempo total de resposta usado nas tabelas do artigo, em segundos.
+input_tokens;Tokens de entrada reportados pelo backend/API.
+output_tokens;Tokens de saída reportados pelo backend/API.
+total_tokens;Total de tokens reportado pelo backend/API.
+policy_path;Caminho de governança usado para definir a decisão final.
+policy_stage;Estágio usado pela política de governança.
+policy_blockers;Bloqueios da política registrados durante o processo de decisão.
+policy_text_signals;Sinais textuais detectados pela camada de governança.
+overclaim_detected;Indica se uma possível afirmação indevida de corretude foi detectada.
+overclaim_fixed;Indica se a camada de governança corrigiu/conteve a afirmação indevida.
+failure_signal;Indica se foi detectada evidência relacionada a falha.
+error_category;Categoria anonimizada de erro disponível na execução operacional original.
+test_group;Rótulo do grupo de teste/evidência da execução operacional original.
+model_vs_oracle;"Comparação TP/TN/FP/FN entre model_marker e oracle_ref; NA quando não há oráculo."
+governance_vs_oracle;"Comparação correct/incorrect entre governed_decision e oracle_ref; NA quando não há oráculo."
+model_vs_governance;Padrão de concordância ou discordância entre o marcador do modelo e a decisão governada.
